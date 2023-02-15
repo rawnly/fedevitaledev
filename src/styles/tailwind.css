@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .rx-bg-base {
+    background: white;
+  }
+
+  [data-theme="dark"] .rx-bg-base {
+    background: black;
+  }
+
+  .rx-backdrop-blur {
+    backdrop-filter: blur(10px) saturate(190%) contrast(50%) brightness(130%);
+  }
+
+  [data-theme="dark"] .rx-backdrop-blur {
+    backdrop-filter: blur(10px) saturate(190%) contrast(70%) brightness(50%);
+  }
+
+  /** Floating Card */
+  /** A general class for styling all the floating cards such as:
+ * - dropdowns 
+ * - contextmenus 
+ * - dialogs 
+ * - alerts
+ * */
+  .floating-card {
+    z-index: 100;
+    box-shadow: rgb(0 0 0 / 9%) 0px 3px 12px;
+
+    @apply rx-backdrop-blur;
+    @apply border-neutral-6/50 dark:border-neutralDark-6/50 border-[0.5px];
+    @apply transition-colors duration-150 z-50 rounded-lg;
+    @apply bg-white/50 rx-text-neutral-11;
+  }
+
+  [data-theme="dark"] .floating-card {
+    z-index: 100;
+
+    @apply bg-black/50;
+  }
+
+  .dark-floating-card {
+    @apply floating-card rx-bg-neutral-2;
+  }
+
+  .context-menu-base {
+    z-index: 100;
+    box-shadow: rgb(0 0 0 / 9%) 0px 3px 12px;
+
+    backdrop-filter: blur(10px) saturate(190%) contrast(50%) brightness(130%);
+    @apply border-neutral-6/50 dark:border-neutralDark-6/50 border-[0.5px];
+    @apply transition-colors duration-150 z-50 rounded-lg;
+    @apply p-2 bg-white/50 rx-text-neutral-11;
+  }
+
+  [data-theme="dark"] .context-menu-base {
+    backdrop-filter: blur(10px) saturate(190%) contrast(70%) brightness(50%);
+    @apply bg-black/50;
+  }
+
+  .context-menu-item-base {
+    @apply w-full px-4 py-2 text-sm;
+    @apply z-10 transition-colors duration-150 outline-0 rounded;
+    @apply disabled:opacity-50 aria-disabled:opacity-50;
+  }
+
+  .context-menu-base[data-highlighted],
+  .context-menu-item-base[data-active-item],
+  .context-menu-item-base[aria-disabled="false"]:hover,
+  .context-menu-item-base:not(:disabled):hover {
+    @apply bg-neutral-6/30 dark:bg-neutralDark-6/30 cursor-pointer;
+  }
+}
+
+@layer components {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-bold dark:text-white text-neutral-12;
+  }
+
+  p,
+  article {
+    dark: text-white text-neutral-12;
+  }
+
+  h1 {
+    @apply text-4xl;
+  }
+
+  h2 {
+    @apply text-3xl;
+  }
+
+  h3 {
+    @apply text-2xl;
+  }
+
+  b {
+    @apply font-medium;
+  }
+}
