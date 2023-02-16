@@ -33,7 +33,7 @@ const corners: { title: string; icon: IconProp; href: string }[][] = [
     {
       title: "Stack Overflow",
       icon: Brands.faStackOverflow,
-      href: "mailto:mail@fedevitale.dev",
+      href: "https://stackoverflow.com/users/6173068/federico",
     },
     {
       title: "Github",

@@ -1,0 +1,30 @@
+{
+  "cacheItemsMap": {
+    "my-first-blog-post.md": {
+      "document": {
+        "title": "My first blog post",
+        "description": "my first blog post",
+        "draft": true,
+        "date": "2022-02-15T00:00:00.000Z",
+        "url": "/blog/my-first-blog-post",
+        "body": {
+          "raw": "\n# My first blog post\n\n> hello world!\n\n### Some Code\n\n```rust\n/// Main function\nfn main() {\n  println!(\"Hello World\");\n}\n```\n",
+          "html": "<h1>My first blog post</h1>\n<blockquote>\n<p>hello world!</p>\n</blockquote>\n<h3>Some Code</h3>\n<pre><code class=\"language-rust\">/// Main function\nfn main() {\n  println!(\"Hello World\");\n}\n</code></pre>"
+        },
+        "_id": "my-first-blog-post.md",
+        "_raw": {
+          "sourceFilePath": "my-first-blog-post.md",
+          "sourceFileName": "my-first-blog-post.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "my-first-blog-post"
+        },
+        "type": "Post",
+        "slug": "my-first-blog-post"
+      },
+      "documentHash": "1676480975411",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    }
+  }
+}

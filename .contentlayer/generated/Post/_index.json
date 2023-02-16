@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Build Your First MacOS App",
+    "description": "A simple guide to start MacOS Development",
+    "date": "2019-05-21T00:00:00.000Z",
+    "url": "https://medium.com/swlh/build-your-first-macos-app-5d36d3352691",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "blog/build-your-mac-app.md",
+    "_raw": {
+      "sourceFilePath": "blog/build-your-mac-app.md",
+      "sourceFileName": "build-your-mac-app.md",
+      "sourceFileDir": "blog",
+      "contentType": "markdown",
+      "flattenedPath": "blog/build-your-mac-app"
+    },
+    "type": "Post",
+    "path": "/blog/blog/build-your-mac-app",
+    "slug": "blog/build-your-mac-app"
+  },
+  {
+    "title": "This is how I figured out how IG zoom works",
+    "description": "We find features by accident right? That's what happened to me this afternoon.",
+    "date": "2018-11-09T00:00:00.000Z",
+    "url": "https://medium.com/simul-tech/ig-pinch-drag-swift-4-390da4f86ead",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "blog/ig-zoom.md",
+    "_raw": {
+      "sourceFilePath": "blog/ig-zoom.md",
+      "sourceFileName": "ig-zoom.md",
+      "sourceFileDir": "blog",
+      "contentType": "markdown",
+      "flattenedPath": "blog/ig-zoom"
+    },
+    "type": "Post",
+    "path": "/blog/blog/ig-zoom",
+    "slug": "blog/ig-zoom"
+  },
+  {
+    "title": "Local Post",
+    "description": "An experiment",
+    "draft": true,
+    "date": "2023-02-14T00:00:00.000Z",
+    "body": {
+      "raw": "\n# Hello World\n\n> It's me mariooo\n",
+      "html": "<h1>Hello World</h1>\n<blockquote>\n<p>It's me mariooo</p>\n</blockquote>"
+    },
+    "_id": "blog/local-post.md",
+    "_raw": {
+      "sourceFilePath": "blog/local-post.md",
+      "sourceFileName": "local-post.md",
+      "sourceFileDir": "blog",
+      "contentType": "markdown",
+      "flattenedPath": "blog/local-post"
+    },
+    "type": "Post",
+    "path": "/blog/blog/local-post",
+    "slug": "blog/local-post"
+  },
+  {
+    "title": "Observe NSPasteboard - Swift 4",
+    "description": "How to listen for clipboard changes",
+    "date": "2019-05-22T00:00:00.000Z",
+    "url": "https://medium.com/@fedevitale/watch-for-nspasteboard-fad29d2f874e",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "blog/observe-nspasteboard.md",
+    "_raw": {
+      "sourceFilePath": "blog/observe-nspasteboard.md",
+      "sourceFileName": "observe-nspasteboard.md",
+      "sourceFileDir": "blog",
+      "contentType": "markdown",
+      "flattenedPath": "blog/observe-nspasteboard"
+    },
+    "type": "Post",
+    "path": "/blog/blog/observe-nspasteboard",
+    "slug": "blog/observe-nspasteboard"
+  },
+  {
+    "title": "Thread safe queue in Rust 🦀",
+    "description": "Build a thread safe queue in rust",
+    "date": "2023-01-21T00:00:00.000Z",
+    "url": "https://medium.com/@fedevitale/thread-safe-queue-in-rust-1ed1acb9b93e",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "blog/rust-queue.md",
+    "_raw": {
+      "sourceFilePath": "blog/rust-queue.md",
+      "sourceFileName": "rust-queue.md",
+      "sourceFileDir": "blog",
+      "contentType": "markdown",
+      "flattenedPath": "blog/rust-queue"
+    },
+    "type": "Post",
+    "path": "/blog/blog/rust-queue",
+    "slug": "blog/rust-queue"
+  }
+]

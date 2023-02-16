@@ -1,0 +1,21 @@
+{
+  "title": "Thread safe queue in Rust 🦀",
+  "description": "Build a thread safe queue in rust",
+  "date": "2023-01-21T00:00:00.000Z",
+  "url": "https://medium.com/@fedevitale/thread-safe-queue-in-rust-1ed1acb9b93e",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "blog/rust-queue.md",
+  "_raw": {
+    "sourceFilePath": "blog/rust-queue.md",
+    "sourceFileName": "rust-queue.md",
+    "sourceFileDir": "blog",
+    "contentType": "markdown",
+    "flattenedPath": "blog/rust-queue"
+  },
+  "type": "Post",
+  "path": "/blog/blog/rust-queue",
+  "slug": "blog/rust-queue"
+}

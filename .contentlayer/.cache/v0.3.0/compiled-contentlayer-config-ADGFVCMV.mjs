@@ -1,82 +1,84 @@
+// contentlayer.config.js
 import { defineDocumentType, makeSource } from "contentlayer/source-files";
-
-const Post = defineDocumentType(() => ({
+var Post = defineDocumentType(() => ({
   name: "Post",
   filePathPattern: "blog/**/*.md",
   fields: {
     title: {
       type: "string",
       description: "The title of the post",
-      required: true,
+      required: true
     },
     description: {
       type: "string",
-      required: true,
+      required: true
     },
     draft: {
       type: "boolean",
-      required: false,
+      required: false
     },
     date: {
       type: "date",
-      required: true,
+      required: true
     },
     url: {
       type: "string",
-      required: false,
-    },
+      required: false
+    }
   },
   computedFields: {
     path: {
       type: "string",
-      resolve: (post) => `/blog/${post._raw.flattenedPath}`,
+      resolve: (post) => `/blog/${post._raw.flattenedPath}`
     },
     slug: {
       type: "string",
-      resolve: (post) => post._raw.flattenedPath,
-    },
-  },
+      resolve: (post) => post._raw.flattenedPath
+    }
+  }
 }));
-
-const Project = defineDocumentType(() => ({
+var Project = defineDocumentType(() => ({
   name: "Project",
   filePathPattern: "projects/**/*.md",
   fields: {
     title: {
       type: "string",
       description: "The title of the post",
-      required: true,
+      required: true
     },
     description: {
       type: "string",
-      required: true,
+      required: true
     },
     date: {
       type: "date",
-      required: true,
+      required: true
     },
     url: {
       type: "string",
-      required: false,
+      required: false
     },
     featured: {
       type: "boolean",
-      required: false,
-    },
+      required: false
+    }
   },
   computedFields: {
     path: {
       type: "string",
-      resolve: (post) => `/blog/${post._raw.flattenedPath}`,
+      resolve: (post) => `/blog/${post._raw.flattenedPath}`
     },
     slug: {
       type: "string",
-      resolve: (post) => post._raw.flattenedPath,
-    },
-  },
+      resolve: (post) => post._raw.flattenedPath
+    }
+  }
 }));
-
-export default makeSource({
+var contentlayer_config_default = makeSource({
   contentDirPath: "content",
-  documentTypes: [Post, Project],
+  documentTypes: [Post, Project]
 });
+export {
+  contentlayer_config_default as default
+};
+//# sourceMappingURL=compiled-contentlayer-config-ADGFVCMV.mjs.map

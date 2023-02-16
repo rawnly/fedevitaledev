@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Git Add Commit",
+    "description": "Commits made easy",
+    "date": "2021-11-23T00:00:00.000Z",
+    "url": "https://github.com/rawnly/git-add-commit",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "projects/git-add-commit.md",
+    "_raw": {
+      "sourceFilePath": "projects/git-add-commit.md",
+      "sourceFileName": "git-add-commit.md",
+      "sourceFileDir": "projects",
+      "contentType": "markdown",
+      "flattenedPath": "projects/git-add-commit"
+    },
+    "type": "Project",
+    "path": "/blog/projects/git-add-commit",
+    "slug": "projects/git-add-commit"
+  },
+  {
+    "title": "Hawk",
+    "description": "Dead simple rust CLI to ease workflows management inside monorepos.",
+    "date": "2022-09-03T00:00:00.000Z",
+    "url": "https://github.com/rawnly/hawk",
+    "featured": true,
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "projects/hawk.md",
+    "_raw": {
+      "sourceFilePath": "projects/hawk.md",
+      "sourceFileName": "hawk.md",
+      "sourceFileDir": "projects",
+      "contentType": "markdown",
+      "flattenedPath": "projects/hawk"
+    },
+    "type": "Project",
+    "path": "/blog/projects/hawk",
+    "slug": "projects/hawk"
+  },
+  {
+    "title": "next-wayfinder",
+    "description": "Apply multiple nextjs middlewares with ease",
+    "date": "2022-11-07T00:00:00.000Z",
+    "url": "https://github.com/rawnly/next-wayfinder",
+    "featured": true,
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "projects/next-wayfinder.md",
+    "_raw": {
+      "sourceFilePath": "projects/next-wayfinder.md",
+      "sourceFileName": "next-wayfinder.md",
+      "sourceFileDir": "projects",
+      "contentType": "markdown",
+      "flattenedPath": "projects/next-wayfinder"
+    },
+    "type": "Project",
+    "path": "/blog/projects/next-wayfinder",
+    "slug": "projects/next-wayfinder"
+  },
+  {
+    "title": "Raycast Music",
+    "description": "Raycast extension to control `Music` app",
+    "date": "2021-11-18T00:00:00.000Z",
+    "url": "https://raycast.com/fedevitaledev/music",
+    "featured": true,
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "projects/raycast-music.md",
+    "_raw": {
+      "sourceFilePath": "projects/raycast-music.md",
+      "sourceFileName": "raycast-music.md",
+      "sourceFileDir": "projects",
+      "contentType": "markdown",
+      "flattenedPath": "projects/raycast-music"
+    },
+    "type": "Project",
+    "path": "/blog/projects/raycast-music",
+    "slug": "projects/raycast-music"
+  },
+  {
+    "title": "Splash CLI",
+    "description": "A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.",
+    "date": "2017-01-01T00:00:00.000Z",
+    "url": "https://splash-cli.app",
+    "body": {
+      "raw": "",
+      "html": ""
+    },
+    "_id": "projects/splash-cli.md",
+    "_raw": {
+      "sourceFilePath": "projects/splash-cli.md",
+      "sourceFileName": "splash-cli.md",
+      "sourceFileDir": "projects",
+      "contentType": "markdown",
+      "flattenedPath": "projects/splash-cli"
+    },
+    "type": "Project",
+    "path": "/blog/projects/splash-cli",
+    "slug": "projects/splash-cli"
+  }
+]

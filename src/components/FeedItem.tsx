@@ -10,7 +10,7 @@ import { motion } from "framer-motion";
 interface IFeedItemProps {
   title: string;
   description: string;
-  date: Date;
+  date: number;
   slug: string;
   url?: string;
 
@@ -52,7 +52,7 @@ const FeedItem: FC<PropsWithChildren<IFeedItemProps>> = ({
       </div>
 
       <span className="text-sm rx-text-neutral-11 sm:block hidden opacity-50">
-        {format(new Date(props.date), "MMM yyyy")}
+        {format(props.date, "MMM yyyy")}
       </span>
     </li>
   </AnimatedLink>

@@ -1,0 +1,21 @@
+{
+  "title": "Splash CLI",
+  "description": "A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.",
+  "date": "2017-01-01T00:00:00.000Z",
+  "url": "https://splash-cli.app",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "projects/splash-cli.md",
+  "_raw": {
+    "sourceFilePath": "projects/splash-cli.md",
+    "sourceFileName": "splash-cli.md",
+    "sourceFileDir": "projects",
+    "contentType": "markdown",
+    "flattenedPath": "projects/splash-cli"
+  },
+  "type": "Project",
+  "path": "/blog/projects/splash-cli",
+  "slug": "projects/splash-cli"
+}

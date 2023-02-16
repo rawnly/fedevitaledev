@@ -1,0 +1,260 @@
+{
+  "cacheItemsMap": {
+    "blog/build-your-mac-app.md": {
+      "document": {
+        "title": "Build Your First MacOS App",
+        "description": "A simple guide to start MacOS Development",
+        "external": true,
+        "date": "2019-05-21T00:00:00.000Z",
+        "url": "/blog/blog/build-your-mac-app",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "blog/build-your-mac-app.md",
+        "_raw": {
+          "sourceFilePath": "blog/build-your-mac-app.md",
+          "sourceFileName": "build-your-mac-app.md",
+          "sourceFileDir": "blog",
+          "contentType": "markdown",
+          "flattenedPath": "blog/build-your-mac-app"
+        },
+        "type": "Post",
+        "slug": "blog/build-your-mac-app"
+      },
+      "documentHash": "1676335872207",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "blog/ig-zoom.md": {
+      "document": {
+        "title": "This is how I figured out how IG zoom works",
+        "description": "We find features by accident right? That's what happened to me this afternoon.",
+        "external": true,
+        "date": "2018-11-09T00:00:00.000Z",
+        "url": "/blog/blog/ig-zoom",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "blog/ig-zoom.md",
+        "_raw": {
+          "sourceFilePath": "blog/ig-zoom.md",
+          "sourceFileName": "ig-zoom.md",
+          "sourceFileDir": "blog",
+          "contentType": "markdown",
+          "flattenedPath": "blog/ig-zoom"
+        },
+        "type": "Post",
+        "slug": "blog/ig-zoom"
+      },
+      "documentHash": "1676335872207",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "blog/local-post.md": {
+      "document": {
+        "title": "Local Post",
+        "description": "An experiment",
+        "external": false,
+        "draft": true,
+        "date": "2023-02-14T00:00:00.000Z",
+        "url": "/blog/blog/local-post",
+        "body": {
+          "raw": "\n# Hello World\n\n> It's me mariooo\n",
+          "html": "<h1>Hello World</h1>\n<blockquote>\n<p>It's me mariooo</p>\n</blockquote>"
+        },
+        "_id": "blog/local-post.md",
+        "_raw": {
+          "sourceFilePath": "blog/local-post.md",
+          "sourceFileName": "local-post.md",
+          "sourceFileDir": "blog",
+          "contentType": "markdown",
+          "flattenedPath": "blog/local-post"
+        },
+        "type": "Post",
+        "slug": "blog/local-post"
+      },
+      "documentHash": "1676468726345",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "blog/observe-nspasteboard.md": {
+      "document": {
+        "title": "Observe NSPasteboard - Swift 4",
+        "description": "How to listen for clipboard changes",
+        "external": true,
+        "date": "2019-05-22T00:00:00.000Z",
+        "url": "/blog/blog/observe-nspasteboard",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "blog/observe-nspasteboard.md",
+        "_raw": {
+          "sourceFilePath": "blog/observe-nspasteboard.md",
+          "sourceFileName": "observe-nspasteboard.md",
+          "sourceFileDir": "blog",
+          "contentType": "markdown",
+          "flattenedPath": "blog/observe-nspasteboard"
+        },
+        "type": "Post",
+        "slug": "blog/observe-nspasteboard"
+      },
+      "documentHash": "1676335872207",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "blog/rust-queue.md": {
+      "document": {
+        "title": "Thread safe queue in Rust 🦀",
+        "description": "Build a thread safe queue in rust",
+        "external": true,
+        "date": "2023-01-21T00:00:00.000Z",
+        "url": "/blog/blog/rust-queue",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "blog/rust-queue.md",
+        "_raw": {
+          "sourceFilePath": "blog/rust-queue.md",
+          "sourceFileName": "rust-queue.md",
+          "sourceFileDir": "blog",
+          "contentType": "markdown",
+          "flattenedPath": "blog/rust-queue"
+        },
+        "type": "Post",
+        "slug": "blog/rust-queue"
+      },
+      "documentHash": "1676335872206",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "projects/git-add-commit.md": {
+      "document": {
+        "title": "Git Add Commit",
+        "description": "Commits made easy",
+        "date": "2021-11-23T00:00:00.000Z",
+        "url": "/blog/projects/git-add-commit",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "projects/git-add-commit.md",
+        "_raw": {
+          "sourceFilePath": "projects/git-add-commit.md",
+          "sourceFileName": "git-add-commit.md",
+          "sourceFileDir": "projects",
+          "contentType": "markdown",
+          "flattenedPath": "projects/git-add-commit"
+        },
+        "type": "Project",
+        "slug": "projects/git-add-commit"
+      },
+      "documentHash": "1676335872204",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/hawk.md": {
+      "document": {
+        "title": "Hawk",
+        "description": "Dead simple rust CLI to ease workflows management inside monorepos.",
+        "date": "2022-09-03T00:00:00.000Z",
+        "url": "/blog/projects/hawk",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "projects/hawk.md",
+        "_raw": {
+          "sourceFilePath": "projects/hawk.md",
+          "sourceFileName": "hawk.md",
+          "sourceFileDir": "projects",
+          "contentType": "markdown",
+          "flattenedPath": "projects/hawk"
+        },
+        "type": "Project",
+        "slug": "projects/hawk"
+      },
+      "documentHash": "1676335872206",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/next-wayfinder.md": {
+      "document": {
+        "title": "next-wayfinder",
+        "description": "Apply multiple nextjs middlewares with ease",
+        "date": "2022-11-07T00:00:00.000Z",
+        "url": "/blog/projects/next-wayfinder",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "projects/next-wayfinder.md",
+        "_raw": {
+          "sourceFilePath": "projects/next-wayfinder.md",
+          "sourceFileName": "next-wayfinder.md",
+          "sourceFileDir": "projects",
+          "contentType": "markdown",
+          "flattenedPath": "projects/next-wayfinder"
+        },
+        "type": "Project",
+        "slug": "projects/next-wayfinder"
+      },
+      "documentHash": "1676335872205",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    },
+    "projects/raycast-music.md": {
+      "document": {
+        "title": "Raycast Music",
+        "description": "Raycast extension to control `Music` app",
+        "date": "2021-11-18T00:00:00.000Z",
+        "url": "/blog/projects/raycast-music",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "projects/raycast-music.md",
+        "_raw": {
+          "sourceFilePath": "projects/raycast-music.md",
+          "sourceFileName": "raycast-music.md",
+          "sourceFileDir": "projects",
+          "contentType": "markdown",
+          "flattenedPath": "projects/raycast-music"
+        },
+        "type": "Project",
+        "slug": "projects/raycast-music"
+      },
+      "documentHash": "1676335872204",
+      "hasWarnings": true,
+      "documentTypeName": "Project"
+    },
+    "projects/splash-cli.md": {
+      "document": {
+        "title": "Splash CLI",
+        "description": "A simple, command line tool to download Unsplash wallpapers. It’s not intended to be anything particularly fancy — it just works.",
+        "date": "2017-01-01T00:00:00.000Z",
+        "url": "/blog/projects/splash-cli",
+        "body": {
+          "raw": "",
+          "html": ""
+        },
+        "_id": "projects/splash-cli.md",
+        "_raw": {
+          "sourceFilePath": "projects/splash-cli.md",
+          "sourceFileName": "splash-cli.md",
+          "sourceFileDir": "projects",
+          "contentType": "markdown",
+          "flattenedPath": "projects/splash-cli"
+        },
+        "type": "Project",
+        "slug": "projects/splash-cli"
+      },
+      "documentHash": "1676335872205",
+      "hasWarnings": false,
+      "documentTypeName": "Project"
+    }
+  }
+}

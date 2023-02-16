@@ -1,0 +1,22 @@
+{
+  "title": "Raycast Music",
+  "description": "Raycast extension to control `Music` app",
+  "date": "2021-11-18T00:00:00.000Z",
+  "url": "https://raycast.com/fedevitaledev/music",
+  "featured": true,
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "projects/raycast-music.md",
+  "_raw": {
+    "sourceFilePath": "projects/raycast-music.md",
+    "sourceFileName": "raycast-music.md",
+    "sourceFileDir": "projects",
+    "contentType": "markdown",
+    "flattenedPath": "projects/raycast-music"
+  },
+  "type": "Project",
+  "path": "/blog/projects/raycast-music",
+  "slug": "projects/raycast-music"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Hawk",
+  "description": "Dead simple rust CLI to ease workflows management inside monorepos.",
+  "date": "2022-09-03T00:00:00.000Z",
+  "url": "https://github.com/rawnly/hawk",
+  "featured": true,
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "projects/hawk.md",
+  "_raw": {
+    "sourceFilePath": "projects/hawk.md",
+    "sourceFileName": "hawk.md",
+    "sourceFileDir": "projects",
+    "contentType": "markdown",
+    "flattenedPath": "projects/hawk"
+  },
+  "type": "Project",
+  "path": "/blog/projects/hawk",
+  "slug": "projects/hawk"
+}

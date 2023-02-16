@@ -1,0 +1,21 @@
+{
+  "title": "Observe NSPasteboard - Swift 4",
+  "description": "How to listen for clipboard changes",
+  "date": "2019-05-22T00:00:00.000Z",
+  "url": "https://medium.com/@fedevitale/watch-for-nspasteboard-fad29d2f874e",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "blog/observe-nspasteboard.md",
+  "_raw": {
+    "sourceFilePath": "blog/observe-nspasteboard.md",
+    "sourceFileName": "observe-nspasteboard.md",
+    "sourceFileDir": "blog",
+    "contentType": "markdown",
+    "flattenedPath": "blog/observe-nspasteboard"
+  },
+  "type": "Post",
+  "path": "/blog/blog/observe-nspasteboard",
+  "slug": "blog/observe-nspasteboard"
+}

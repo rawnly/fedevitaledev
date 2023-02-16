@@ -1,0 +1,21 @@
+{
+  "title": "Git Add Commit",
+  "description": "Commits made easy",
+  "date": "2021-11-23T00:00:00.000Z",
+  "url": "https://github.com/rawnly/git-add-commit",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "projects/git-add-commit.md",
+  "_raw": {
+    "sourceFilePath": "projects/git-add-commit.md",
+    "sourceFileName": "git-add-commit.md",
+    "sourceFileDir": "projects",
+    "contentType": "markdown",
+    "flattenedPath": "projects/git-add-commit"
+  },
+  "type": "Project",
+  "path": "/blog/projects/git-add-commit",
+  "slug": "projects/git-add-commit"
+}

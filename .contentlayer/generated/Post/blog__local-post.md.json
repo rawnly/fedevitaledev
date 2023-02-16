@@ -1,0 +1,21 @@
+{
+  "title": "Local Post",
+  "description": "An experiment",
+  "draft": true,
+  "date": "2023-02-14T00:00:00.000Z",
+  "body": {
+    "raw": "\n# Hello World\n\n> It's me mariooo\n",
+    "html": "<h1>Hello World</h1>\n<blockquote>\n<p>It's me mariooo</p>\n</blockquote>"
+  },
+  "_id": "blog/local-post.md",
+  "_raw": {
+    "sourceFilePath": "blog/local-post.md",
+    "sourceFileName": "local-post.md",
+    "sourceFileDir": "blog",
+    "contentType": "markdown",
+    "flattenedPath": "blog/local-post"
+  },
+  "type": "Post",
+  "path": "/blog/blog/local-post",
+  "slug": "blog/local-post"
+}

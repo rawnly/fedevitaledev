@@ -1,0 +1,20 @@
+{
+  "title": "Raycast Music",
+  "description": "Raycast extension to control `Music` app",
+  "date": "2021-11-18T00:00:00.000Z",
+  "url": "/blog/projects/raycast-music",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "projects/raycast-music.md",
+  "_raw": {
+    "sourceFilePath": "projects/raycast-music.md",
+    "sourceFileName": "raycast-music.md",
+    "sourceFileDir": "projects",
+    "contentType": "markdown",
+    "flattenedPath": "projects/raycast-music"
+  },
+  "type": "Post",
+  "slug": "projects/raycast-music"
+}

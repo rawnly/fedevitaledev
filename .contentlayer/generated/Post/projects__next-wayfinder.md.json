@@ -1,0 +1,20 @@
+{
+  "title": "next-wayfinder",
+  "description": "Apply multiple nextjs middlewares with ease",
+  "date": "2022-11-07T00:00:00.000Z",
+  "url": "/blog/projects/next-wayfinder",
+  "body": {
+    "raw": "",
+    "html": ""
+  },
+  "_id": "projects/next-wayfinder.md",
+  "_raw": {
+    "sourceFilePath": "projects/next-wayfinder.md",
+    "sourceFileName": "next-wayfinder.md",
+    "sourceFileDir": "projects",
+    "contentType": "markdown",
+    "flattenedPath": "projects/next-wayfinder"
+  },
+  "type": "Post",
+  "slug": "projects/next-wayfinder"
+}
